@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "flickity": "^2.3.0",
+    "imagesloaded": "^5.0.0",
+    "react": "^18.3.1",
+    "react-blur": "^1.1.1",
+    "react-dom": "^18.3.1",
+    "react-flickity": "^1.0.8",
+    "react-flickity-component": "^4.0.7",
+    "react-native-video": "^2.3.1",
+    "react-native-video-player": "^0.14.0",
+    "react-player": "^2.16.0"
+  }
+}
